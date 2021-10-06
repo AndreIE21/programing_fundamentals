@@ -1,11 +1,3 @@
-import numpy as np 
-import torch 
-import matplotlib.pyplot as plt 
-import pandas as pd 
+def add_parameters(a, b):
+    return a + b 
 
-
-
-
-x = np.array([1,2,3])
-
-print(x.dot(x))
