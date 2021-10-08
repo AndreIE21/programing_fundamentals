@@ -12,6 +12,6 @@ def multiplication(a,b):
     return a * b 
 
 def func3(a):
-    return a + 3 + 5
+    return np.log(a)
 
 
