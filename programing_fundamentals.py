@@ -11,6 +11,7 @@ add_parameters(a, b)
 def multiplication(a,b):
     return a ** b 
 
+
 def func3(a):
     return np.log(a)
 
