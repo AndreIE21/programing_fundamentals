@@ -1,3 +1,5 @@
+import numpy as np 
+
 def add_parameters(a, b):
     return a + b 
 
@@ -10,6 +12,6 @@ def multiplication(a,b):
     return a * b 
 
 def func3(a):
-    return a + 8
+    return np.log(a)
 
-    
+
